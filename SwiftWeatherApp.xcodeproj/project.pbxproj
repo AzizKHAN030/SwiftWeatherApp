@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C044F0C32B4B25C900002718 /* WeatherButtonLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C044F0C22B4B25C900002718 /* WeatherButtonLabel.swift */; };
 		C07B3FE72B4AF4F400B5A22D /* SwiftWeatherAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07B3FE62B4AF4F400B5A22D /* SwiftWeatherAppApp.swift */; };
 		C07B3FE92B4AF4F400B5A22D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C07B3FE82B4AF4F400B5A22D /* ContentView.swift */; };
 		C07B3FEB2B4AF4F500B5A22D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C07B3FEA2B4AF4F500B5A22D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C044F0C22B4B25C900002718 /* WeatherButtonLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButtonLabel.swift; sourceTree = "<group>"; };
 		C07B3FE32B4AF4F400B5A22D /* SwiftWeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftWeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C07B3FE62B4AF4F400B5A22D /* SwiftWeatherAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftWeatherAppApp.swift; sourceTree = "<group>"; };
 		C07B3FE82B4AF4F400B5A22D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				C07B3FE62B4AF4F400B5A22D /* SwiftWeatherAppApp.swift */,
 				C07B3FE82B4AF4F400B5A22D /* ContentView.swift */,
+				C044F0C22B4B25C900002718 /* WeatherButtonLabel.swift */,
 				C07B3FEA2B4AF4F500B5A22D /* Assets.xcassets */,
 				C07B3FEC2B4AF4F500B5A22D /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C07B3FE92B4AF4F400B5A22D /* ContentView.swift in Sources */,
+				C044F0C32B4B25C900002718 /* WeatherButtonLabel.swift in Sources */,
 				C07B3FE72B4AF4F400B5A22D /* SwiftWeatherAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
